@@ -1,13 +1,17 @@
-### swapi-demo
+# swapi-demo
 
-# To run project Please use below command:
+## To run project Please use below command:
 
-# 1.npm install
-**Android**
+### npm install
+
+**For Android**
+
 ```sh
 npm run android
 ```
-**ios**
+
+**For ios**
+
 ```sh
 npm run ios
 ```
