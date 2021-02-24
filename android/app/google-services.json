@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "936154053806",
+    "project_id": "demopractical-99d57",
+    "storage_bucket": "demopractical-99d57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936154053806:android:92ce00557088242042413f",
+        "android_client_info": {
+          "package_name": "com.demopractical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936154053806-3bmblbdrb68uj4ik91eecv3ppcf95hdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demopractical",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "936154053806-k70mbe1mhfll11qhae10pfgvs8nf0148.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS0eyNZTMjmX_GcmGKVf11NNi8BZZhYLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936154053806-k70mbe1mhfll11qhae10pfgvs8nf0148.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
